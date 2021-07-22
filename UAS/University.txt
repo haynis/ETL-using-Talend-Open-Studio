@@ -1,0 +1,15 @@
+UI, Universitas Indonesia
+UII, Universitas Islam Indonesia
+IPB, Institut Pertanian Bogor
+UB, Universitas Brawijaya
+UNJ, Universitas Negeri Jakarta
+UKI, Universitas Kristen Indonesia
+UNDIP, Universitas Diponegoro
+UGM, Universitas Gajah Mada
+UNES, Universitas Negeri Semarang
+UNY, Universitas Negeri Yogyakarta
+UNPAD, Universitas Padjajaran
+UPH, Universitas Pelita Harapan
+UP, Universitas Pancasila
+UPI, Universitas Pendidikan Indonesia Bandung
+UNHAS, Universitas Hasanuddin
